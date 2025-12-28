@@ -1,0 +1,4 @@
+[core]
+    remote = wine-remote-dataset
+['remote "wine-remote-dataset"']
+    url = s3://nishantlabs.cloud-mlops-dvc/wine-dataset
